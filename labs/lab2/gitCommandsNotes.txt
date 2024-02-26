@@ -1,0 +1,18 @@
+# Global Config
+git config --global user.name 'JaydenIrribarren'
+git config --global user.email 'jirribarren@students.pccc.edu'
+
+# SSH Key
+ssh-keygen -t ed25519 -C "jirribarren@students.pccc.edu"
+
+#  clone my repo
+cd; git clone git@github.com:JaydenIrribarren/cis106
+
+
+
+
+
+
+
+
+
